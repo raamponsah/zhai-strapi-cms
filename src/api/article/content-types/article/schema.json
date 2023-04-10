@@ -31,6 +31,10 @@
     },
     "Excerpt": {
       "type": "text"
+    },
+    "Slug": {
+      "type": "uid",
+      "targetField": "Title"
     }
   }
 }
